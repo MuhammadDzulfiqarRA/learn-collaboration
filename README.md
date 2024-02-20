@@ -9,3 +9,5 @@ stay stune!<br>
 i will complete it at 4 pm, insyaallah!<br>
 
 hope i can finish it at 4<br>
+
+hope i'm not lazy to finish it <br>
