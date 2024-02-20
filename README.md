@@ -1,7 +1,9 @@
 # learn-collaboration
 
-so today i want to learn about squash and merge.
-stay tune!
+so today i want to learn about squash and merge.<br>
+stay tune!<br>
 
-i will complete github modul today
-stay stune!
+i will complete github modul today.<br>
+stay stune!<br>
+
+i will complete it at 4 pm, insyaallah!<br>
